@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsum on suleif&#39;s blog</title>
+    <link>//localhost:1313/tags/ipsum/</link>
+    <description>Recent content in Ipsum on suleif&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>suleif@proton.me (suleif)</managingEditor>
+    <webMaster>suleif@proton.me (suleif)</webMaster>
+    <copyright>© 2026 suleif</copyright>
+    <lastBuildDate>Thu, 04 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Super cool article that I wrotesss</title>
+      <link>//localhost:1313/posts/post-lite-four/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <author>suleif@proton.me (suleif)</author>
+      <guid>//localhost:1313/posts/post-lite-four/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
