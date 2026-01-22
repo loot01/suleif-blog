@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://looot01.github.io/sitemap.xml
